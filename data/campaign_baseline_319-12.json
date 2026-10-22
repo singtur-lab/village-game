@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "recordType": "fictional-roleplay-campaign-snapshot",
+  "calendar": {"kingdomYear": 319, "month": 12, "day": 30},
+  "village": {
+    "population": 123,
+    "ageGroups": {"under16": 30, "age16to64": 84, "age65plus": 9},
+    "voters": 93,
+    "communityCashSilver": 7368.95,
+    "pensionReserveSilver": 49.24,
+    "bankDepositsSilver": 1375.6,
+    "bankCashSilver": 1560.155,
+    "outsideLoanBalanceSilver": 0,
+    "agriculturalUseRightsHectares": 1.6,
+    "plantedHectares": 0.95,
+    "occupiedHomes": 4
+  },
+  "institutions": [
+    "monthly community meeting and budget review",
+    "village bank with limited lending authority",
+    "theatre, local inn, select shop, newspaper, preserved-food kitchen",
+    "school, health and elder-support activities",
+    "monthly external contact and map-based event tracking"
+  ],
+  "guidingPrinciples": [
+    "全員で生き残る",
+    "攻め込まず、実際の危険に備える",
+    "暮らしを支え、文化と経済を育てる",
+    "重要な決定は村で話し合い、記録する"
+  ],
+  "openThreads": [
+    {"id":"white-pestle-mill-loan","status":"pending","requestSilver":36,"note":"融資許可更新と羊毛担保登録が未完了。融資未実行。"},
+    {"id":"belln-preserved-sweets-order","status":"due-next-month","quantity":20,"priceSilver":16,"note":"1月納品予定。前払金なし。"}
+  ],
+  "unknowns": [
+    "land and older buildings not fully appraised",
+    "livestock, feed, and inventory not fully valued",
+    "winter crop yield not yet known",
+    "regional political and security situation remains incomplete"
+  ],
+  "privacyNote": "A curated fictional campaign snapshot. Private GM-only meta-instructions and personal chat details are intentionally excluded."
+}
